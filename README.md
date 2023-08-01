@@ -132,7 +132,7 @@ MONGO_URI=&lt;your_mongodb_connection_uri&gt;</code></pre>
   <h2>Contact</h2>
 
   <p>
-    If you have any questions or need further assistance, you can reach out to the project maintainers at <a href="mailto:chughtaimubeen5@gmail.com">maintainer@example.com</a>.
+    If you have any questions or need further assistance, you can reach out to the project maintainers at <a href="mailto:chughtaimubeen5@gmail.com">chughtaimubeen5@gmail.com</a>.
   </p>
 </body>
 </html>
