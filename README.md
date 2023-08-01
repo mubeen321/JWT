@@ -129,16 +129,10 @@ MONGO_URI=&lt;your_mongodb_connection_uri&gt;</code></pre>
     Contributions to this project are welcome! Feel free to submit pull requests or open issues for any improvements or bug fixes.
   </p>
 
-  <h2>License</h2>
-
-  <p>
-    This project is licensed under the <a href="link-to-license-file">MIT License</a>.
-  </p>
-
   <h2>Contact</h2>
 
   <p>
-    If you have any questions or need further assistance, you can reach out to the project maintainers at <a href="mailto:maintainer@example.com">maintainer@example.com</a>.
+    If you have any questions or need further assistance, you can reach out to the project maintainers at <a href="mailto:chughtaimubeen5@gmail.com">maintainer@example.com</a>.
   </p>
 </body>
 </html>
